@@ -1,7 +1,17 @@
-- 👋 Hi, I’m Abbas
-- 👀 I’m interested in AWS, k8s
-- 💞️ I’m looking to collaborate on AWS, k8s, Terraform
-<!---
-abbasghulam/abbasghulam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👋 Hi, I'm Abbas
+
+I'm passionate about cloud infrastructure, platform engineering, and building reliable, observable systems. My work focuses on AWS, Kubernetes, CI/CD automation, and modern observability practices.
+
+## 👀 Interests
+- Cloud architecture and infrastructure on AWS
+- Kubernetes and container orchestration
+- CI/CD and GitOps using GitHub Actions and ArgoCD
+- Observability and monitoring using Prometheus, Grafana, OpenTelemetry, Loki
+- Infrastructure as Code and automation with Terraform
+
+## 💞️ Open to collaborate on
+- AWS infrastructure and platform engineering projects
+- Kubernetes platforms, tooling, and operations
+- CI/CD pipelines and GitOps workflows
+- Observability implementations and monitoring pipelines
+- Terraform modules and infrastructure automation
