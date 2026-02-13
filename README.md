@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Abbas
+## 👋 Hi, I'm Abbas — Platform Engineer focused on AWS, Kubernetes, and Observability
 
 I'm passionate about cloud infrastructure, platform engineering, and building reliable, observable systems. My work focuses on AWS, Kubernetes, CI/CD automation, and modern observability practices.
 
